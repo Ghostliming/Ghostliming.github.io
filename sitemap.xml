@@ -3,17 +3,12 @@
 
     <sitemap>
         <loc>http://unkonws.info/post-sitemap.xml</loc>
-        <lastmod>2018-09-11T03:33:17.224Z</lastmod>
-    </sitemap>
-
-    <sitemap>
-        <loc>http://unkonws.info/category-sitemap.xml</loc>
-        <lastmod>2018-09-03T03:01:53.182Z</lastmod>
+        <lastmod>2018-09-12T02:25:10.644Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>http://unkonws.info/tag-sitemap.xml</loc>
-        <lastmod>2018-09-03T03:01:53.182Z</lastmod>
+        <lastmod>2018-09-12T02:25:10.634Z</lastmod>
     </sitemap>
 
 </sitemapindex>
